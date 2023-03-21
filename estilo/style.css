@@ -80,7 +80,7 @@ img {
 #ul {
     list-style-position: inside;
     text-align: center;
-    color: black;
+    color: black;;
     
    
    
@@ -92,6 +92,7 @@ h2 {
     font-family: var(--fonte-header);
     font-size: 30px;
     text-shadow: 1px 1px 0px #00000050;
+    color: #ffffffd5;
     
     
 }
@@ -105,6 +106,7 @@ table {
 }
 
 caption {
+    color: #ffffffd5;
     background-color: #040c045b;
     font-family: var(--fonte-header);
     font-weight: bolder;
